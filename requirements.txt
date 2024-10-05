@@ -1,0 +1,4 @@
+requests
+BeautifulSoup
+time
+pandas 
